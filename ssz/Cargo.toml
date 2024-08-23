@@ -1,0 +1,13 @@
+[package]
+name = "ssz"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+ethereum_ssz_derive = "0.5.3"
+ethereum_ssz = "0.5.3"
+alloy-primitives = "0.7.4"
+serde = "1.0.203"
+serde_with = "3.8.1"
+
+
